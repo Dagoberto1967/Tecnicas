@@ -1,6 +1,6 @@
 ---
 title: "TÉCNICAS DE CONTAR"
-subtitle: "Fundamentos teóricos, diagramas de árbol y aplicaciones reproducibles en R"
+subtitle: "Fundamentos teóricos y aplicaciones reproducibles en R"
 author: 
   - name: Dagoberto Salgado Horta
     affiliation: "Universidad del Tolima"
