@@ -81,7 +81,7 @@ ipak(packages)
 
 Las **técnicas de conteo** permiten determinar cuántos resultados, arreglos, selecciones o decisiones pueden realizarse sin tener que enumerarlos uno por uno. Constituyen una herramienta fundamental para calcular probabilidades, organizar información, diseñar experimentos y resolver problemas de administración, economía, educación, informática y ciencias del deporte.
 
-Este material toma como referencia la clasificación y las fórmulas del documento *Fórmulas de combinatoria* suministrado: variaciones, variaciones con repetición, permutaciones, permutaciones con repetición, combinaciones, combinaciones con repetición y relaciones notables. Se amplía el contenido con el **principio multiplicativo**, su representación mediante diagramas de árbol y ejemplos desarrollados con R.
+
 
 ::: callout-tip
 ## Tres preguntas antes de contar
